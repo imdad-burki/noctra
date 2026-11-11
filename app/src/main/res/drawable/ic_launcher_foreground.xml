@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  NOCTRA launcher foreground: a gold clock face on transparent.
+  108x108dp viewport (adaptive-icon safe zone is the central 66dp).
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,18a36,36 0 1,0 0,72a36,36 0 1,0 0,-72zM54,22.5a31.5,31.5 0 1,1 0,63a31.5,31.5 0 1,1 0,-63z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,32 L54,54 L70,62 L67.5,66.5 L50.5,56.5 L50.5,32 Z" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,51a3,3 0 1,0 0,6a3,3 0 1,0 0,-6z" />
+</vector>

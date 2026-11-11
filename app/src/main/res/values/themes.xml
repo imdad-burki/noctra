@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  NOCTRA theme. Compose Material3 ships NO XML themes, so the Activity theme
+  parent is android:Theme.Material.NoActionBar (proven CROPCAST lesson).
+  All visual styling lives in Compose (core:designsystem Theme.kt).
+-->
+<resources>
+    <style name="Theme.Noctra" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/noctra_bg</item>
+        <item name="android:statusBarColor">@color/noctra_bg</item>
+        <item name="android:navigationBarColor">@color/noctra_bg</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <!-- windowLightNavigationBar is API 27+: see values-v27/themes.xml. -->
+    </style>
+</resources>

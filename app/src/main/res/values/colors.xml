@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="noctra_bg">#07070A</color>
+    <color name="noctra_surface">#121218</color>
+    <color name="noctra_gold">#D4AF37</color>
+    <color name="noctra_gold_light">#E8C468</color>
+    <color name="noctra_text">#F5F5F7</color>
+</resources>
